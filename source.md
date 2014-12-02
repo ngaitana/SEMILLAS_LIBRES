@@ -150,6 +150,15 @@ Slide:
 * Enero 2014 - La FSF publicó un comunicado en el que denuncia el peligro de las leyes derivadas del TPP (Trans-Pacific Partnership), en el marco del DMCA (Digital Millennium Copyright Act) que se implementarían este año en la legislación estadounidense. 
 * Septiembre 2014 - El vicepresidente de estados unidos  Joe Biden acaba de enviar una carta al presidente colombiano Juan Manuel Santos pidiéndole cumplir los compromisos adquiridos en materia de derechos de autor que contempla el TLC con EEUU. 
 
+Slide:
+
+##Opiniones comunidad Software Libre
+
+* El software libre ha cumplido una función determinante para que la Internet sea lo más abierta y neutral posible lo que a su vez ha sido primordial para el desarrollo del software libre y sus comunidades.
+* Las políticas de restricción del uso de internet amenazan mecanismos para compartir información y software como el P2P.
+* Para Richard Stallman El ACTA y sus derivados hacen parte de una propuesta que pretende cambiar las cosas para peor, donde una industria que no sabe adaptarse trata de legitimar su statu quo.
+
+
 Slide: 
 
 #Conclusiones
