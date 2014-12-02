@@ -17,7 +17,7 @@
 
 
 
-Slite:
+Slide:
 
 #Ley Lleras
 #### Manuel Leonardo Mosquera Palomino
@@ -29,15 +29,15 @@ Slite:
 6. ###  Conclusiones
 
 
-Slite: 
+Slide: 
 
 <img height="600" src="fig/noacta.jpg">
 
-Subslite:
+Subslide:
 
-#ACTA  (Anti-Counterfeiting Trade Agreement)
+##ACTA(Anti-Counterfeiting Trade Agreement)
 
-##Acuerdo Comercial Antifalsificación 
+###Acuerdo Comercial Antifalsificación 
 * Impulsada inicialmente por EEUU y Japón en 2006
 * Es un Marco legal internacional al cual cualquier país puede adherirse voluntariamente.
 * Aumenta la vigilancia fronteriza
@@ -47,16 +47,12 @@ Subslite:
 >* Comisión Europea
 >* Departamento Australiano de Comercio y Asuntos Extranjeros
 
-Subslite:
+Subslide:
 
 <img height="600" src="fig/mapaacta.png">
 
-Sublite:   
 
-
-<img height="600" src="fig/lleras1.png">
-
-Subslite:
+Subslide:
 # Secuelas ACTA
 
 * El capítulo 16 del texto del TLC con EEUU Compromete al país a hacer que sus leyes de propiedad intelectual sean compatibles con las estadounidenses.
@@ -64,7 +60,14 @@ Subslite:
 * Estas iniciativas de ley al igual que la ley lleras 1.0 fueron frenadas o desechadas gracias a grandes movilizaciones en la Web.
 
 
-Slite: 
+Slide: 
+
+
+
+<img height="600" src="fig/lleras1.png">
+
+Subslide:   
+
 
 #Ley Lleras 1
 
@@ -73,7 +76,7 @@ Slite:
 * Por la cual se regula la responsabilidad por las infracciones al derecho de autor y los derechos conexos en internet.
 * Se presenta como exigencia del Plan Nacional de Desarrollo 2010-214 y de los TLC con EEUU y UE.
 
-Subslite:
+Subslide:
  
 #Ley Lleras 1
 
@@ -85,7 +88,7 @@ Subslite:
 * Director Sena
 * Superintendente de industria y comercio
 
-Subslite:
+Subslide:
 
 #Ley Lleras 1
 
@@ -93,7 +96,7 @@ Subslite:
 
 * En gran medida gracias a la importante movilización que se generó en la red por parte de diferentes sectores y grupos.
 
-Slite:
+Slide:
 
 #Ley Lleras 2 
 
@@ -101,7 +104,7 @@ Slite:
 
 * Por medio de la cual se implementan compromisos adquiridos por virtud del "Acuerdo de Promoción Comercial", suscrito entre la República de Colombia y los Estados Unidos de América y su "Protocolo Modificatorio, en el Marco de la Política de Comercio Exterior e Integración Económica".
 
-Subslite:
+Subslide:
 
 #Ley Lleras 2
 
@@ -109,15 +112,15 @@ Subslite:
 
 * Su trámite duró solamente 20 días.
 
-Subslite: 
 
-* La Ley Lleras # 2 es aprobada el 9 de abril de 2012, Obama llegaría a Cartagena el  día13 del mismo mes para firmar la entrada en vigencia del TLC con EEUU.
 
-Subslite:
+Subslide: 
+
+>* La Ley Lleras # 2 es aprobada el 9 de abril de 2012, Obama llegaría a Cartagena el  día13 del mismo mes para firmar la entrada en vigencia del TLC con EEUU.
 
 <img height="600" src="fig/obamasantos.png">
 
-Subslite:
+Subslide:
 
 #Ley Lleras 2
 
@@ -130,7 +133,7 @@ Subslite:
 * Esta ley modifica la [ley 23 de 1982](http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=3431) (sobre derechos de autor) 
 
 
-Subslite:
+Subslide:
 
 #Ley Lleras 2
 
