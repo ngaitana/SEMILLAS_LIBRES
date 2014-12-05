@@ -20,11 +20,8 @@ Slide:
 
 Nicolás Gaitán Albarracín
 
-<img height="400" src="logo.png">
+<img height="470" src="fig/POSTER-SEMILLAS.jpg">
 
-Slide:
-
-<img height="600" src="fig/commercial.png">
 
 Slide:
 
@@ -47,24 +44,24 @@ Slide:
 # Practicas Ancestrales
 
 1. La semilla
-2. Table-bases
-3. Otras: reglas especiales, pondering, etc.
+2. Comunidades
+3. Historia
+4. Domesticación
 
 Subslide:
 
 # Practicas Ancestrales
 ## La semilla
 
-* Es el principal **órgano reproductivo** de la gran mayoría de las plantas. Ésta desempeña una función fundamental en la renovación, persistencia y dispersión de las poblaciones de plantas, regeneración de los bosques y es una fuente de alimento básico para muchos animales.  <!-- .element: class="fragment" data-fragment-index="1"-->
+* Es el principal **órgano reproductivo** de la gran mayoría de las plantas. Ésta desempeña una función fundamental en la renovación, persistencia y dispersión de las poblaciones de plantas, regeneración de los bosques y es una fuente de alimento básico para muchos animales. 
 
-* Pueden almacenarse vivas por largos períodos, asegurándose así la preservación de especies y variedades de plantas valiosas. <!-- .element: class="fragment" data-fragment-index="2"-->
-
-Subslide:
-
-# Practicas Ancestrales
+* Pueden almacenarse vivas por largos períodos, asegurándose así la preservación de especies y variedades de plantas valiosas.
 
 Subslide:
 ## La semilla
+
+<img height="300" src="fig/images.jpg">
+
 * La conservación de semillas ancestrales se da en los planos de la cultura, la ética, la política y la espiritualidad. <!-- .element: class="fragment" data-fragment-index="3"-->
 
 Subslide:
@@ -74,6 +71,13 @@ Subslide:
 * Han sido las comunidades campesinas e indígenas, en especial las personas mayores, y las mujeres quienes han conservado esta sabiduría milenaria hasta nuestros días. <!-- .element: class="fragment" data-fragment-index="1"-->
 
 * Reproducir e intercambiar libre y solidariamente las semillas, decidir cómo y qué cultivar para comer una comida saludable y hacerlo en armonía con la naturaleza, han sido por milenios, las bases de una agricultura orientada a garantizar la soberanía alimentaria de los pueblos y las naciones. <!-- .element: class="fragment" data-fragment-index="1"-->
+
+
+Subslide:
+
+## Comunidades
+
+<img height="300" src="fig/header.jpg">
 
 Subslide:
 
@@ -87,11 +91,24 @@ Subslide:
 
 * Antes del año 8 000 a.C., el trigo era más parecido a un pasto común y corriente que al que hoy conocemos. Se dieron las condiciones para que este antecesor del trigo se cruzara con otro pasto silvestre, dando como resultado un híbrido fértil, capaz de reproducirse y dar origen a semillas viables capaces de germinar y formar plantas, frutos, semillas y así, hacer que esas características perduraran en la naturaleza. 
 
-* De esta manera se juntaron los catorce cromosomas del antecesor del trigo con los catorce cromosomas del pasto silvestre, produciendo un híbrido conocido como Emmer con 28 cromosomas. Este híbrido tenía semillas mucho más llenas, adheridas a las cubiertas papiráceas, lo cual le daba posibilidades de dispersarse con el viento. Esta nueva planta se cruzó a su vez con otro pasto, dando lugar a un híbrido con semillas aún más llenas, con 42
+<img height="300" src="fig/vio159.gif">
 
 Subslide:
 
-## Bases
+## Historia
+
+* De esta manera se juntaron los catorce cromosomas del antecesor del trigo con los catorce cromosomas del pasto silvestre, produciendo un híbrido conocido como Emmer con 28 cromosomas. Este híbrido tenía semillas mucho más llenas, adheridas a las cubiertas papiráceas, lo cual le daba posibilidades de dispersarse con el viento. Esta nueva planta se cruzó a su vez con otro pasto, dando lugar a un híbrido con semillas aún más llenas, con 42.
+
+Subslide:
+
+<img height="700" src="fig/trigo 2.png">
+
+
+Subslide:
+
+## Domesticación
+
+<img height="300" src="fig/wirikuta.jpg">
 
 * Una vez domesticada una planta, en la mayoría de los casos se recogen las semillas para volverlas a sembrar y tener una producción de esa planta. 
 
@@ -101,7 +118,7 @@ Subslide:
 
 Subslide:
 
-## Domesticacion
+## Domesticación
 
 * Con la domesticación de las plantas el hombre creó ambientes permanentes y predecibles que permitieron la invasión de plantas asociadas a los cultivos.
 
@@ -115,6 +132,9 @@ Subslide:
 
 * En el caso de la linaza se han desarrollado malas hierbas con semillas del mismo tamaño que las del cultivo, de modo que en el momento de la cosecha ambas semillas son recolectadas y dispersadas.
 
+Subslide:
+
+<img height="700" src="fig/p11.gif">
 Subslide:
 
 ## Domesticacion
@@ -131,14 +151,11 @@ Subslide:
 
 *  Para muchas comunidades las semillas son sagradas, no pueden constituirse en mercancías, son dones otorgados por Dios o por la naturaleza a los seres humanos.
 
-
-
-<img height="400" src="fig/retroanalisis.png">
-
 Slide:
 
 # Organismos Genéticamente Modificados
 
+<img height="300" src="fig/sandia-cuadradab.jpg">
 
 
 Subslide:
@@ -163,6 +180,11 @@ Subslide:
 
 ## ¿Qué significa la autorización del cultivo de maíz transgénico en el país?
 
+<img height="300" src="fig/fda.jpg">
+
+Subslide:
+
+## ¿Qué significa la autorización del cultivo de maíz transgénico en el país?
 U S Food and Drug Administration.
 
 Han puesto la pauta para el concepto de OMG en el mundo, el cual fue aprobado entre afanes y presiones politicas.
@@ -172,6 +194,7 @@ El Centro para laSeguridad Alimentaria de Washington, reliazo estudio sobre las 
 Slide:
 
 # Revolución Verde
+<img height="500" src="fig/vy.jpg">
 
 
 Subslide:
@@ -181,6 +204,17 @@ Subslide:
 Se denomina al importante incremento de la productividad agrícola. Gran parte de la producción mundial de alimentos de la actualidad se ha logrado gracias a lo que se conoce como Revolucion verde, ocurrida entre 1940 y 1970 en Estados Unidos. 
 
 Utilizar variedades mejoradas de maíz, trigo y otros granos, cultivando una sola especie en un terreno durante todo el año (monocultivo), y la aplicación de grandes cantidades de agua, fertilizantes y plaguicidas. Con estas variedades y procedimientos, la producción es de dos a cinco veces superior que con las técnicas y variedades tradicionales de cultivo.
+
+
+Subslide:
+
+## Revolución Verde
+
+<img height="600" src="fig/rv2.jpg">
+
+Subslide:
+
+## Revolución Verde
 
 Actualmente la actividad está siendo dominada por grandes empresas quienes toman a la producción de alimentos como una actividad económica más, sin atender a las características y ritmos que la producción agraria requiere, manteniendo además una relación instrumental con los bienes comunes naturales. No es un fenómeno desconocido; por el contario, se trata de una fase envolvente del proceso de modernización agrario, conocido como la Revolución Verde (Souza Casadinho, Javier. 2011) 
 
@@ -195,20 +229,30 @@ Subslide:
 
 ## Revolución Verde
 
-* En los primeros años del siglo XIX, la gran mayoría de los agricultores dependían del abastecimiento propio de sus semillas. 
-Concluida la II guerra mundial, se intensifica la producción agrícola e incrementa la demanda en cantidad y calidad de las semillas. 
+* En los primeros años del siglo XIX, la gran mayoría de los agricultores dependían del abastecimiento propio de sus semillas. Concluida la II guerra mundial, se intensifica la producción agrícola e incrementa la demanda en cantidad y calidad de las semillas. 
 
 * En la actualidad, el mundo desarrollado ha dominado la industria semillera, por las grandes inversiones e investigaciones asociadas que demanda esta actividad, para lograr semillas de calidad con alto potencial productivo en un mercado cambiante y dinámico a nivel internacional. 
+
+Subslide:
+
+## Revolución Verde
+
+<img height="300" src="fig/12.jpg">
+
 
 * Estados Unidos posee casi mil instituciones especializadas relacionadas con la actividad de semillas. Otros países como Francia, Japón, Holanda, Inglaterra, Canadá e Israel poseen la mayor fuente de recursos genéticos, para la creación de nuevas variedades e híbridos y ostentan el dominio del comercio de semillas. 
 
 Slide:
 
 # Monsanto
+<img height="500" src="fig/monsanto.jpg">
 
 Subslide:
 ## Monsanto
 Monsanto es una proveedora de productos químicos para la agricultura, en su mayoría herbicidas, insecticidas y transgénicos. Entre sus productos más conocidos se encuentran el glifosato bajo la marca Roundup y el maíz genéticamente modificado MON 810.
+
+<img height="300" src="fig/roundup.jpg">
+
 
 Subslide:
 ## Monsanto
@@ -218,6 +262,10 @@ Subslide:
 * En 1914, distribuía sacarina, para 1938 tenía negocios químicos en el sector de los plásticos y las resinas.
 * En 1974 (RonudUp “biodegradable, deja en suelo limpio y es amigable con el medio ambiente) se adentrará en el negocio de los herbicidas y en 1981 se suma a la carrera biotecnológica. 
 * En el año 2000 contribuyó a descifrar el código genético del arroz, y anunció que la información obtenida en la investigación sería compartida con la comunidad científica mundial.
+Subslide:
+
+# Monsanto
+<img height="500" src="fig/mm.jpg">
 
 Subslide:
 ## Monsanto
@@ -232,6 +280,7 @@ Subslide:
 1970 se estalla una tubería que transportaba PCB afecta a trabajadores y a vecinos.
 1999 compró empresa semillera mas grande India, introdujo semilla BT (Bolgard) supuestamente protege al algodón del gusano americano.
 
+<img height="300" src="fig/mmm.jpg">
 
 Subslide:
 ## Monsanto
@@ -242,6 +291,8 @@ Policía de los genes, control de cultivos grandes de cereales.
 
 Fomentan mediante denuncias anónimas de granjeros que almacenen semilla1800 Roundup
 Entre 1995 y 2005 aquirio mas de 50 empresas de producción de semillas a nivel mundial.
+
+<img height="300" src="fig/PCB.png">
 
 Slide:
 # Panorama Mundial
@@ -256,7 +307,10 @@ La obtención de vegetales se encuentra en las manos de un puñado de empresas p
 
 Subslide:
 # Panorama Mundial
-## 
+<img height="500" src="fig/IMG_19206.jpg">
+
+Subslide:
+# Panorama Mundial
 
 Desde 1949 los agricultores franceses están obligados a comprar únicamente las semillas registradas en el catálogo nacional de semillas, que a través de un decreto que considera ilegal la comercialización de semillas que no estén incluidas en este documento, les entrega a los grandes productores el poder de apropiarse de las semillas y aniquilar todo tipo de actividades relacionadas con el intercambio.
 
@@ -266,6 +320,11 @@ Subslide:
 
 Desde que en 1998 India autorizó la entrada de algodón transgénico, miles de campesinos se han suicidado. No pueden pagar la semilla ni los agroquímicos que necesita y ahora ya no pueden combatir ni la supermaleza ni las superplagas que agobian las cosechas. La inviabilidad del modelo Monsanto radica, de acuerdo con Shiva, “en el monopolio que edifican, en el factor económico que persiguen –cultivan productos tóxicos y no alimentos– y en la estupidez, que significa acabar con el legado campesino e inhabilitar a la planta para que use sus defensas naturales”.
 
+
+Subslide:
+## Panorama Mundial
+<img height="600" src="fig/url.jpg">
+
 Subslide:
 ## Panorama Mundial
 
@@ -274,6 +333,11 @@ Ignacio Chapela pudo documentar en 2001, antes de la siembra experimental y pilo
 Despido de Berkeley
 
 Act-Bio World Campaña de Desprestigio, “Mary Morphy” y “Andura Smetaceck”  distribuyo e-mail de difamación, en la comunidad cnetifica para desligitimar el estudio, inundaron de e-mails a Nature; siguio el protocola de internet.
+
+Subslide:
+## Panorama Mundial
+<img height="600" src="fig/nature.png">
+
 
 Slide:
 # Panorama Colombiano
@@ -293,19 +357,30 @@ No en vano, en un comunicado publicado poco después de la resolución, el ICA a
 
 Subslide:
 ## Panorama Colombiano
+<img height="400" src="fig/icaimages.jpg">
 
-
+Subslide:
+## Panorama Colombiano
 Con respecto a la reserva, la 970 permite a los agricultores guardar parte de su propia cosecha para usarla como semilla en una siembra futura, siempre y cuando 
 
 se trate de un agricultor con una extensión máxima de 5 hectáreas (es decir, un pequeño agricultor)
 la semilla provenga de una cosecha en que se haya usado una semilla legal
 (iii) se use solo para el consumo propio, no para comercializar. Esto significa nuevamente que todos están obligados a usar semilla certificada y que la reserva es un privilegio únicamente de los pequeños agricultores y bajo condiciones estrictas.
- 
+
+Subslide:
+## Panorama Colombiano
+<img height="400" src="fig/whipala.jpeg">
+
 
 Subslide:
 ## Panorama Colombiano
 
 A finales de agosto, pocos días después de iniciado el paro, en la página web del ICA apareció colgada para consulta pública una propuesta de resolución que modifica la 970, pero que ha pasado sorprendentemente desapercibida. Paradójicamente, los cambios que propone le dan la razón a los problemas que el documental, los campesinos y el análisis anterior resaltan. Primero, desaparece por completo el término “semilla legal.” Segundo, aclara explícitamente que tal resolución no aplica para semillas locales y reconoce su uso por comunidades locales. Tercero, permite reservar la cosecha únicamente al pequeño agricultor, pero no le exige que provenga de una cosecha con semilla certificada. 
+
+Subslide:
+## Panorama Colombiano
+<img height="600" src="fig/Captura de pantalla 2014-09-17 a la(s) 4.54.59.png">
+
 
 Slide:
 
